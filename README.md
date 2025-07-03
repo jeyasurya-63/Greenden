@@ -24,7 +24,6 @@ It features a clean, modern layout and includes three main pages:
 
 
 ## 📂 Repository Link
-
-🔗 [GitHub Repository] 
+https://github.com/jeyasurya-63/Greenden.git
 
 
